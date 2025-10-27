@@ -58,7 +58,7 @@ const Index = () => {
             <div className="relative animate-fade-in">
               <div className="absolute inset-0 bg-primary/20 blur-3xl rounded-full"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/baf63578-944c-463e-a35e-2fb3b7b437e5/files/b7500e2f-e450-4487-96a6-e82c06018708.jpg" 
+                src="https://cdn.poehali.dev/files/a36b18b3-f15a-4177-afe7-4c706a82a3f0.jpg" 
                 alt="Fitness Trainer"
                 className="relative rounded-lg shadow-2xl w-full object-cover aspect-square"
               />
