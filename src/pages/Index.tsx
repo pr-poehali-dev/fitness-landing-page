@@ -69,12 +69,12 @@ const Index = () => {
 
       <section id="about" className="py-20 px-4 bg-secondary/50">
         <div className="container mx-auto">
-          <div className="grid md:grid-cols-2 gap-12 items-center">
+          <div className="grid md:grid-cols-2 gap-12 items-center mx-0">
             <div className="order-2 md:order-1">
               <img 
                 src="https://cdn.poehali.dev/files/1384a563-9f71-462c-823f-5148fb3e84ea.jpg" 
                 alt="Training Session"
-                className="rounded-lg shadow-xl w-full object-cover aspect-[4/3]"
+                className="rounded-lg shadow-xl w-full object-cover aspect-[4/3] my-0"
               />
             </div>
             <div className="order-1 md:order-2 space-y-6">
