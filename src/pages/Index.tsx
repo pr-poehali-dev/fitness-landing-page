@@ -72,7 +72,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="order-2 md:order-1">
               <img 
-                src="https://cdn.poehali.dev/projects/baf63578-944c-463e-a35e-2fb3b7b437e5/files/5136e34b-c3d5-4047-a665-83821f7adb72.jpg" 
+                src="https://cdn.poehali.dev/files/1384a563-9f71-462c-823f-5148fb3e84ea.jpg" 
                 alt="Training Session"
                 className="rounded-lg shadow-xl w-full object-cover aspect-[4/3]"
               />
